@@ -9,12 +9,7 @@
         <link rel="stylesheet" type="text/css" href="/assets/css/default.css"/>
 	</head>
 	<body>
-        <div class="container">
-            <div class="navbar">
-                <div class="navbar-inner">
-                    {menubar} 
-				</div>
-            </div>           
+        <div class="container">       
             <div id="content">
                 <h1>{pagetitle}</h1>
                 {content}
