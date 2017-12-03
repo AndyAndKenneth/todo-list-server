@@ -7,7 +7,7 @@
  */
 require APPPATH . '/third_party/restful/libraries/Rest_controller.php';
 
-class Ports extends Rest_Controller {
+class Job extends Rest_Controller {
 
     function __construct()
     {
